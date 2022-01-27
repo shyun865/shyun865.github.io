@@ -5,6 +5,7 @@ tagline: Bulma Clean Theme
 email: your-email@domain.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+remote_theme: chrisrhymes/bulma-clean-theme
 baseurl: "/bulma-clean-theme"
 url: "https://shyun865.github.io/"
 permalink: pretty
@@ -14,7 +15,7 @@ permalink: pretty
 #theme_color: '#eeeeee'
 #fixed_navbar: top
 
-remote_theme: chrisrhymes/bulma-clean-theme
+
 
 paginate: 5
 paginate_path: "/blog/page:num"
@@ -28,6 +29,7 @@ disqus:
 
 
 plugins:
+  - github-pages
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-feed
