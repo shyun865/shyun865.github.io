@@ -1,0 +1,16 @@
+alignment: is-left
+style: is-boxed
+size: is-large
+items:
+  - name: Syllabus
+    link: /page_lectures_cryptology_syllabus/
+    icon: fa-calendar-alt
+  - name: Materials
+    link: /page_lectures_cryptology_materials/
+    icon: fa-folder
+  - name: Homeworks
+    link: /page_lectures_cryptology_homeworks/
+    icon: fa-ellipsis-v
+  - name: Exams
+    link: /page_lectures_cryptology_exams/
+    icon: fa-tasks
